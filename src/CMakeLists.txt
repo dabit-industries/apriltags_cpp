@@ -17,7 +17,7 @@ add_executable(camtest camtest.cpp)
 target_link_libraries(camtest apriltags ${OpenCV_LIBRARIES})
 
 add_executable(tagtest tagtest.cpp)
-target_link_libraries(tagtest apriltags ${OPENCV_LIBRARIES})
+target_link_libraries(tagtest apriltags ${OpenCV_LIBRARIES})
 
 add_executable(quadtest quadtest.cpp)
 target_link_libraries(quadtest apriltags ${OpenCV_LIBRARIES})
