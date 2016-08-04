@@ -20,11 +20,11 @@ else()
 endif()
 
 find_library(GLUT_LIBRARY glut)
+find_package(OpenCV 2.3.1)
 
 include(FindPkgConfig)
 
-pkg_search_module(OPENCV REQUIRED opencv>=2.3 opencv-2.3.1)
-include_directories(${OPENCV_INCLUDE_DIRS})
+include_directories(${OpenCV_INCLUDE_DIRS})
 
 pkg_check_modules(CAIRO cairo)
 
