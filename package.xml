@@ -5,11 +5,9 @@
   <description>
     apriltags C++ core library
   </description>
-  <url type="repository">https://github.com/personalrobotics/apriltags-cpp</url>
+  <url type="repository">https://github.com/locusrobotics/apriltags_cpp</url>
 
-  <maintainer email="awalsman@andrew.cmu.edu">Aaron Walsman</maintainer>
-  <author email="awalsman@andrew.cmu.edu">Aaron Walsman</author>
-  <author email="pkv@cs.cmu.edu">Pras Velagapudi</author>
+  <maintainer email="tmoore@locusrobotics.com">Tom Moore</maintainer>
 
   <license>BSD</license>
 
