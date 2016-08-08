@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>apriltags_cpp</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>
     apriltags C++ core library
   </description>
