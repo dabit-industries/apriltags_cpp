@@ -2,6 +2,11 @@
 Changelog for package apriltags_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.1.3 (2016-08-08)
+------------------
+* Changing version for kinetic and adding new xenial-only cgal-qt5 dependency
+* Contributors: Tom Moore
+
 0.0.2 (2016-08-08)
 ------------------
 * Adding libopencv-dev dependency
