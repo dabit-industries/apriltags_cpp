@@ -2,6 +2,11 @@
 Changelog for package apriltags_cpp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.3 (2016-08-08)
+------------------
+* Changing package maintainer information
+* Contributors: Tom Moore
+
 0.0.2 (2016-08-08)
 ------------------
 * Adding libopencv-dev dependency
