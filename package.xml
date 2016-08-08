@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>apriltags_cpp</name>
-  <version>0.0.3</version>
+  <version>0.1.2</version>
   <description>
     apriltags C++ core library
   </description>
@@ -12,6 +12,7 @@
   <license>BSD</license>
 
   <depend>cgal</depend>
+  <depend>cgal-qt5</depend>
   <depend>libopencv-dev</depend>
 
   <buildtool_depend>cmake</buildtool_depend>
