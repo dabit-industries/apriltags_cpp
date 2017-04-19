@@ -20,7 +20,7 @@ else()
 endif()
 
 find_library(GLUT_LIBRARY glut)
-find_package(OpenCV 2.3.1)
+find_package(OpenCV REQUIRED)
 
 include(FindPkgConfig)
 
